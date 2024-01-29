@@ -6,7 +6,7 @@ Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
 - 🤔 I’m looking for help with Placements in high tech companies
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kavya_vj_2022?igsh=MXNiOWJmZmd5dXBrcQ==) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/bharath-s-382202269/](https://www.linkedin.com/in/kavya-sankar-260200269/))[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kavya_vj_2022?igsh=MXNiOWJmZmd5dXBrcQ==) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kavya-sankar)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 " />](https://www.bharathsenthil34@gmail.com)
 - 😄 Pronouns: Techie.
 - ⚡ Fun fact: I speak music.😄
