@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Kavya here
 
 Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
-<img align="right" width="370" height="290" src="https://i.gifer.com/En1y.gif">    
+<img align="right" width="370" height="290" src="gif1">    
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in high tech companies
 - 💬 Ask me about Tech
@@ -22,4 +22,4 @@ Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
 
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyasankar19&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jankijanaki52theme=dark&font=Marcellus&ext=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jankijanaki52?theme=dark&font=Marcellus&ext=activity)
