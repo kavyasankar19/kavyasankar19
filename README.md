@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Kavya here
 
 Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
-<img align="right" width="370" height="290" src="gif1">    
+<img align="right" width="370" height="290" src="gif1.gif">    
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in high tech companies
 - 💬 Ask me about Tech
