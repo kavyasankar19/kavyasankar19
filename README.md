@@ -22,4 +22,4 @@ Computer Science Engineering Student@ Saranathan College of Engineering Trichy.
 
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyasankar19&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jankijanaki52?theme=dark&font=Marcellus&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jankijanaki52?theme=dark&font=Marcellus&ext=activity)
